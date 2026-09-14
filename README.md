@@ -1,6 +1,9 @@
 ### 🧑‍💻 Programming Stats
 
-![Top Langs](https://github-readme-stats-five-psi-64.vercel.app/api/top-langs/?username=Datbuudien&layout=compact&langs_count=20&theme=radical)
+<p align="left">
+  <img height="280em" src="https://github-readme-stats-five-psi-64.vercel.app/api/top-langs/?username=Datbuudien&layout=compact&langs_count=20&theme=radical" />
+  <img height="280em" src="https://github-readme-stats-five-psi-64.vercel.app/api?username=Datbuudien&show_icons=true&theme=radical" />
+</p>
 <!--
 **Datbuudien/Datbuudien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
