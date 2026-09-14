@@ -1,20 +1,10 @@
-### 🧑‍💻 Programming Stats
-
-<p align="left">
-  <img height="280em" src="https://github-readme-stats-five-psi-64.vercel.app/api/top-langs/?username=Datbuudien&layout=compact&langs_count=20&theme=radical" />
-  <img height="280em" src="https://github-readme-stats-five-psi-64.vercel.app/api?username=Datbuudien&show_icons=true&theme=radical" />
-</p>
-<!--
-**Datbuudien/Datbuudien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats-five-psi-64.vercel.app/api/top-langs/?username=Datbuudien&layout=compact&langs_count=20&theme=radical" />
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-stats-five-psi-64.vercel.app/api?username=Datbuudien&show_icons=true&theme=radical" />
+    </td>
+  </tr>
+</table>
